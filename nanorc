@@ -1,6 +1,8 @@
 set linenumbers
 set tabsize 4
 set autoindent
+set boldtext
+set atblanks
 include "/usr/share/nano/*.nanorc"
 
 ## PERSONALIZAÇÃO DAS CORES
